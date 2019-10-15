@@ -1,5 +1,3 @@
-
-
 {
   "posts": [
     {
@@ -14,7 +12,7 @@
     {
       "id": 2,
       "name": null
-    }
+    },
   ],
   "profile": {
     "name": "typicode"

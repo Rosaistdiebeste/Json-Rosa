@@ -5,6 +5,12 @@
       "title": "hello"
     }
   ],
+  "posts": [
+    {
+      "id": 2,
+      "title": "Rosa"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }

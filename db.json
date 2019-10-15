@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 7,
-      "title": "Rosa ist immaer noch die beste"
+      "title": "Rosa ist immaer noch die beste",
+      "name": "ava",
+      "Alter": 25
     },
     {
       "id": 1,

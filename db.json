@@ -1,22 +1,19 @@
 {
   "posts": [
     {
-      "id": 7,
-      "title": "Rosa ist immaer noch die beste",
-      "name": "ava",
-      "Alter": 25
+      "name": "Ava",
+      "Nachricht": "Hallo, Wer ist da?",
+      "Uhrzeit": true
     },
     {
-      "id": 1,
-      "title": "Rosa ist immaer noch die aaaaaaaa",
-      "name": "lisa",
-      "Alter": 14
+     "name": "Rosa",
+      "Nachricht": "ich und ich und ich und ich",
+      "Uhrzeit": true
     },
     {
-      "id": 3,
-      "title": "Rosa ist immaer noch die bbbbbbbbbb",
-      "name": "aaaaa",
-      "Alter": 60
+      "name": "Manu",
+      "Nachricht": "Halt STOP jetzt rede ICH!",
+      "Uhrzeit": true
     }
   ],
   "profile": {

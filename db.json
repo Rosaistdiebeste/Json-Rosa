@@ -3,17 +3,17 @@
     {
       "name": "Ava",
       "Nachricht": "Hallo, Wer ist da?",
-      "Uhrzeit": true
+      "Uhrzeit": "10.10.2019 13:00"
     },
     {
      "name": "Rosa",
       "Nachricht": "ich und ich und ich und ich",
-      "Uhrzeit": true
+      "Uhrzeit": "11.10.2019 14:30"
     },
     {
       "name": "Manu",
       "Nachricht": "Halt STOP jetzt rede ICH!",
-      "Uhrzeit": true
+      "Uhrzeit": "12.10.2019 16:45"
     }
   ],
   "profile": {
